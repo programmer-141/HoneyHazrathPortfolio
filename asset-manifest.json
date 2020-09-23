@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/HoneyHazrathPortfolio/static/css/main.cdb9f4ea.chunk.css",
+    "main.js": "/HoneyHazrathPortfolio/static/js/main.a56396bd.chunk.js",
+    "main.js.map": "/HoneyHazrathPortfolio/static/js/main.a56396bd.chunk.js.map",
+    "runtime-main.js": "/HoneyHazrathPortfolio/static/js/runtime-main.ace311dc.js",
+    "runtime-main.js.map": "/HoneyHazrathPortfolio/static/js/runtime-main.ace311dc.js.map",
+    "static/js/2.5a8b2c61.chunk.js": "/HoneyHazrathPortfolio/static/js/2.5a8b2c61.chunk.js",
+    "static/js/2.5a8b2c61.chunk.js.map": "/HoneyHazrathPortfolio/static/js/2.5a8b2c61.chunk.js.map",
+    "index.html": "/HoneyHazrathPortfolio/index.html",
+    "precache-manifest.6219e85b7e1e8e820f22f1c490c0e2a3.js": "/HoneyHazrathPortfolio/precache-manifest.6219e85b7e1e8e820f22f1c490c0e2a3.js",
+    "service-worker.js": "/HoneyHazrathPortfolio/service-worker.js",
+    "static/css/main.cdb9f4ea.chunk.css.map": "/HoneyHazrathPortfolio/static/css/main.cdb9f4ea.chunk.css.map",
+    "static/js/2.5a8b2c61.chunk.js.LICENSE.txt": "/HoneyHazrathPortfolio/static/js/2.5a8b2c61.chunk.js.LICENSE.txt",
+    "static/media/admin.jpg": "/HoneyHazrathPortfolio/static/media/admin.15f482d2.jpg",
+    "static/media/main.css": "/HoneyHazrathPortfolio/static/media/portrait.56985c39.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ace311dc.js",
+    "static/js/2.5a8b2c61.chunk.js",
+    "static/css/main.cdb9f4ea.chunk.css",
+    "static/js/main.a56396bd.chunk.js"
+  ]
+}
